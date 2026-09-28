@@ -8,7 +8,7 @@ nav_order: 5
 
 **Carroll School of Management, Boston College**
 
-Instructor, *Marketing Principles*, Fall 2024
+Instructor, *Marketing Principles*, Fall 2024-2026
 
 **Sauder School of Business, University of British Columbia**
 
